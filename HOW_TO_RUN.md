@@ -87,3 +87,6 @@
 
 * Output File after running the code which provides the predicted class and the class probailities
 ![alt text](image.png)
+
+* Terminal after running the code successfully
+![alt text](image.png)

@@ -89,4 +89,4 @@
 ![alt text](image.png)
 
 * Terminal after running the code successfully
-![alt text](image.png)
+![alt text](image2.png)

@@ -1,10 +1,10 @@
 ## How to Run the Code 
 
 * Compile the code using the following command:
-* * nvcc classify_tiff.cpp -o classify_tiff -ltiff -lcudnn -lcuda
+* * nvcc main.cpp -o classify_tiff -ltiff -lcudnn -lcuda
 
 * Run the compiled program, providing the path to the folder containing .tiff images and the output text file as arguments:
-* * ./classify_tiff /path/to/your/tiff_folder output_file.txt
+* * ./classify_tiff input_files output_file.txt
 
 ## Instaling the required Libraries
 

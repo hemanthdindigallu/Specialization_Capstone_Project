@@ -82,3 +82,8 @@
 * * sudo apt install libtiff-dev
 
 * By following these steps, you should have CUDA and cuDNN installed and ready to use on your Ubuntu system. 
+
+## Proof of execution
+
+* Output File after running the code which provides the predicted class and the class probailities
+![alt text](image.png)

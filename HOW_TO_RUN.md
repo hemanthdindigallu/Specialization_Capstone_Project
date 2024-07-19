@@ -87,8 +87,8 @@
 
 * Output File after running the code which provides the predicted class and the class probailities
 
-![alt text](Proof\image.png.png)
+![image.png in Proof folder](image.png)
 
 * Terminal after running the code successfully
 
-![alt text](Proof\image2.png)
+![image2.png in Proof folder](image2.png)
